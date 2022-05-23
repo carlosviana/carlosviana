@@ -1,12 +1,12 @@
 ## Olá pessoas!!! 👋 sou Carlos Viana 
 
-### Sobre mim
-
 Sou de 1976 e trabalho com Tencologia já algum tempo ( 20 anos ). Iniciei com Consultoria de Infraestrutura em Servidores Microsoft me certificando MCSE, mas a 8 anos atuo com desenvolvimento de Software. 
 
-Nos último 10 anos tenho trabalhado com sistemas ERP e agora ( 05/2022 ) estou entrando no mundo sos ChatBots, Convertional IA e Linguagem Natural 👽.
+Nos último 10 anos tenho trabalhado com sistemas ERP e agora ( 05/2022 ) estou entrando no mundo dos ChatBots, Conversacional IA e Linguagem Natural 👽.
 
-Estou organizando melhor a casa (Github) aqui porque depois de um longo e tenebroso inverno quero compartilhar e conectar mais o meu conhecimento e aprender com os outros tb. Ainda estou na faxina, tem muito repositório incompleto com estudos anteriores ( não reparem a bagunça pra trás )
+Estou organizando melhor a casa (Github) aqui porque depois de um longo tempo inativo, por aqui, quero compartilhar e conectar mais o meu conhecimento e aprender com os outros tb. 
+
+*Ainda estou na faxina, tem muito repositório incompleto com estudos anteriores ( não reparem a bagunça pra trás )*
 
 ### Skills
 
