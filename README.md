@@ -50,7 +50,7 @@ E também terá um maior para por compartilhar com a comunidade.
 ### <span style='color:yellow'>**Minhas redes**</span>  
 [![Bintray](https://img.shields.io/badge/-Github-%23181717?style=social&logo=github)]()
 
-[![Bintray](https://img.shields.io/badge/-LinkedIn-%23181717?style=social&logo=linkedin&link=link=https://www.linkedin.com/in/carlos-andr%C3%A9-de-souza-viana-23a235143/)]()
+[![Bintray](https://img.shields.io/badge/-LinkedIn-%23181717?style=social&logo=linkedin&link=https://www.linkedin.com/in/carlos-andr%C3%A9-de-souza-viana-23a235143/)]()
 
 [![Bintray](https://img.shields.io/badge/-@__carlos__viana-%23181717?style=social&logo=twitter)]()
 
