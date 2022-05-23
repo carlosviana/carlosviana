@@ -44,16 +44,16 @@ Vou criar uns no formato menor para aprendizado e compartilhamento.
 
 E também terá um maior para por compartilhar com a comunidade.
 
-
 💬 Esse perfil é dinâmico aqui vão estar meus projetos pessoais e minha linha de desenvolvimento. 
 
 ### <span style='color:yellow'>**Minhas redes**</span>  
-[![Bintray](https://img.shields.io/badge/-carlosviana-%23181717?style=social&logo=github)]()
+
+<a href="https://github.com/carlosviana"><img src="https://img.shields.io/badge/-carlosviana-%23181717?style=social&logo=github"/></a>
 
 <a href="https://www.linkedin.com/in/carlos-andr%C3%A9-de-souza-viana-23a235143/"><img src="https://img.shields.io/badge/-Carlos_André_de_Souza_Viana-%23181717?style=social&logo=linkedin&link=http://left&link=http://right"/></a>
 
 
-[![Bintray](https://img.shields.io/badge/-@__carlos__viana-%23181717?style=social&logo=twitter)]()
+<a href="https://twitter.com/_carlos_viana"><img src="https://img.shields.io/badge/-@__carlos__viana-%23181717?style=social&logo=twitter"/></a>
 
 
 <!--
